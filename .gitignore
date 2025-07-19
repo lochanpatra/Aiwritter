@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Other
+*.sqlite3
+*.db
+*.bak
