@@ -3,7 +3,7 @@
 A simple AI writing assistant built using Streamlit and mistralai/mistral-7b
 
 live:
-
+https://lochanaiwritter.streamlit.app/
 
 
 
